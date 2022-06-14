@@ -1,0 +1,68 @@
+/*Some necessary adjustments*/
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+
+body {
+  background-color: white;
+}
+
+.soupimg {
+  background-color: #cccccc;
+  height: 700px;
+  width: 100vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.souptext {
+  text-align: center;
+  position: absolute;
+  font-family: "Open Sans", sans-serif;
+  font-size: 70px;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.contener {
+  position: relative;
+  text-align: left;
+  font-family: "Open Sans", sans-serif;
+  font-size: 40px;
+  color: #000;
+}
+p {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 80px;
+  margin-right: 150px;
+}
+
+.image {
+  padding-left: 370px;
+  width: 700px;
+  height: 200px;
+}
+
+.contener1 {
+  position: relative;
+  padding-left: 100px;
+  text-align: left;
+  font-size: 30px;
+  color: #000;
+}
+
+.contener2 {
+  position: relative;
+  text-align: left;
+  font-size: 30px;
+  padding-left: 85px;
+  padding-bottom: 60px;
+  color: #000;
+}
